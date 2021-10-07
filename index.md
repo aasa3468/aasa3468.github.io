@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="zh-cn">
     <head>
         <meta charset="utf-8"/>
@@ -11,7 +10,7 @@
     </head>
     <body>
         <h1>很走心的自介条</h1>
-        <img src="D:\xmh\1年级\课程\计算概论\微信图片_20211006225838.jpg">
+        <img src="aasa3468.github.io/微信图片_20211006225838.jpg">
         <h3>你好！这里是一般女性自我介绍系列！</h3>
         <h4>基本信息</h4>
         <p>姓名：许美涵</p>
