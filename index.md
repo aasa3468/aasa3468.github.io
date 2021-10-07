@@ -10,7 +10,7 @@
     </head>
     <body>
         <h1>很走心的自介条</h1>
-        <img src="https://github.com/aasa3468/aasa3468.github.io/微信图片_20211006225838.jpg">
+        <img src="微信图片_20211006225838.jpg">
         <h3>你好！这里是一般女性自我介绍系列！</h3>
         <h4>基本信息</h4>
         <p>姓名：许美涵</p>
