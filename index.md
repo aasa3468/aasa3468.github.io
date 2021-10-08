@@ -5,8 +5,8 @@
         <style>
             p1{text-decoration: line-through;}
             p2{background-color: rgb(85, 106, 46);color: rgb(175, 206, 67);}
-            p3{color: rgb(80,0,0);}
-            a{color: rgb(50,0,0);}
+            p3{color: rgb(182,0,0);}
+            a{color: rgb(145,0,0);}
             body{width: 960px;margin-left: auto;margin-right: auto;border-width: thick;border-style: groove;border-color: rgba(128, 0, 128, 0.5);background-color: rgba(248, 248, 255, 1.0);padding-left: 20px;padding-right: 20px;}
         </style>
     </head>
